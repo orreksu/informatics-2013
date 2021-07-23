@@ -1,2 +1,1 @@
-# informatics-2013
-My research in Type 1 Diabetes software for kids
+# Research in Type 1 Diabetes software for kids
